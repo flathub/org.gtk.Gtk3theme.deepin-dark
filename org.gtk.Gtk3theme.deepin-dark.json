@@ -20,8 +20,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/linuxdeepin/deepin-gtk-theme/archive/17.10.7.tar.gz",
-          "sha256": "ad4b8ac0a78dec054ced50d8db8f16d2a2bf791d2971c13f1f3af23a0362bd66"
+          "url": "https://github.com/linuxdeepin/deepin-gtk-theme/archive/17.10.8.tar.gz",
+          "sha256": "32f54bd0bda97477de3a361c878de20f5b2910667770071007dd573c07f29c5a"
         }
       ]
     },
