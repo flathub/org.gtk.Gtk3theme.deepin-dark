@@ -4,7 +4,7 @@
   "build-extension": true,
   "runtime": "org.freedesktop.Platform",
   "sdk": "org.freedesktop.Sdk",
-  "runtime-version": "1.6",
+  "runtime-version": "19.08",
   "build-extension": true,
   "appstream-compose": false,
   "separate-locales": false,
